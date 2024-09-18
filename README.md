@@ -1,6 +1,23 @@
-# 💫 About Me:
-👋 Hi! I'm Muhammad Abdul Kabir Khan, a Junior AI Engineer and full-stack developer with a focus on AI-driven applications and web development. Here’s a quick overview of what I do:<br><br>Education:<br><br>Bachelor's in Computer Science from FAST NUCES, Pakistan.<br>Technical Expertise:<br><br>Languages & Frameworks: Python, Flask, FastAPI, C++, SQL, HTML, CSS, JavaScript<br>Cloud & Databases: AWS Elastic Beanstalk, MySQL, PostgreSQL, MongoDB, Firebase<br>AI & ML: LangChain, OpenAI APIs, Fine-tuning (TinyLlama), Vector databases<br>Web Scraping: Selenium for automating data extraction<br>Security: RSA encryption for secure data handling<br>Key Projects:<br><br>AI-driven solutions: Worked on LLMs, TTS/STT systems, and RAG models<br>Twilio-Integrated AI Assistant: Real-time speech-to-text and text-to-speech application<br>Research Paper QA System: Built with LangChain to retrieve and answer questions from documents<br>E-commerce platform: Created personalized recommendations with a chatbot using advanced NLP<br>Encrypted Database System: Implemented secure data handling using RSA encryption and Flask-Alchemy<br>Work Experience:<br><br>Junior AI Engineer at Developers DEN: Led AI-driven app development, focused on RAG models, fine-tuning, and secure data handling<br>Web Developer Intern: Developed dynamic front-end pages using HTML, CSS, JavaScript
+💫 About Me:
+👋 Hi! I'm Muhammad Abdul Kabir Khan, a passionate Junior AI Engineer and full-stack developer with expertise in AI-driven applications and web development. Here's a quick snapshot of what I bring to the table:
 
+🎓 Education:
+Bachelor's in Computer Science from FAST NUCES, Pakistan.
+💻 Technical Expertise:
+Languages & Frameworks: Python, Flask, FastAPI, C++, SQL, HTML, CSS, JavaScript
+Cloud & Databases: AWS Elastic Beanstalk, MySQL, PostgreSQL, MongoDB, Firebase
+AI & Machine Learning: LangChain, OpenAI APIs, Fine-tuning (TinyLlama), Vector databases
+Web Scraping: Selenium for automating data extraction
+Security: RSA encryption for secure data handling
+🚀 Key Projects:
+AI-driven Solutions: Developed advanced systems using LLMs, TTS/STT systems, and RAG models
+Twilio-Integrated AI Assistant: Real-time speech-to-text and text-to-speech application with seamless external use
+Research Paper QA System: Created a system using LangChain to retrieve and answer questions from research documents
+E-commerce Platform: Integrated personalized recommendations and chatbot functionalities using NLP
+Encrypted Database System: Ensured secure data handling with RSA encryption and Flask-Alchemy
+🛠️ Work Experience:
+Junior AI Engineer at Developers DEN: Led development of AI applications focusing on RAG models, fine-tuning, and security
+Web Developer Intern: Built dynamic front-end pages using HTML, CSS, and JavaScript
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kabirkhan02/) 
